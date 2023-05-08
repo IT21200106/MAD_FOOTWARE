@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnInsertData" type="id">btnInsertData01</item>
+    <item name="btnFetchData" type="id">btnFetchData02</item>
+    <item name="etpName" type="id">etpName1</item>
+</resources>
